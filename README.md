@@ -1,4 +1,4 @@
-#Ecommerce backend
+#eCommerce backend API
 
 ## Dependencies
 
